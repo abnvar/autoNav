@@ -17,4 +17,4 @@ bash ros.sh
     (Open the slam.ttt file with vrep, and begin simulation before running the bash file.)
 
 ## Rosgraph
-![Rosgraph](https://github.com/abnvar/autoNav/tree/master/res/rosgraph.png)
+![Rosgraph](res/rosgraph.png)
